@@ -1,6 +1,6 @@
 # Using Self-Generated Data to Improve LLM Hallucination Identification Performance
 
-# Abstract
+## Abstract
 Large Language Models (LLMs) have become a very powerful tool with a variety of capabilities.
 However, it often suffers from hallucination, where the generated results are untruthful, subjective, and diverge from the original text. To increase the hallucination identification performance for LLMs, we used llama-2-7b-chat’s inherent knowledge to generate a dataset with questions and two answers for each question, one hallucinated and one un-hallucinated. 
 
